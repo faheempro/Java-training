@@ -24,6 +24,12 @@ public class RelationOperator {
 		boolean bol3= e!=f;
 		System.out.println(bol3);
 		
+		// == compare operator
+		int a=10;
+		int b=20;
+		boolean bol4=a==b;
+		System.out.println(bol4);
+		
 
 	}
 
