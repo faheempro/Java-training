@@ -4,6 +4,7 @@ public class RelationOperator {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		// output will be an boolean value true /false
 		
 //		// Greater Than 
 //		int a =10;
