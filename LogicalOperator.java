@@ -4,6 +4,7 @@ public class LogicalOperator {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+<<<<<<< HEAD
      // logical Operator And &&, Or||, not equal To !=,
 		
 		 Boolean bol1 = true;
@@ -28,3 +29,9 @@ public class LogicalOperator {
 
 }
 }
+=======
+
+	}
+
+}
+>>>>>>> 15ca22d68560441b0989f3311f22061476ca74aa
